@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 
 <div align="center"><br>
   
+ <div align="left">
   <a href="https://github.com/Sam-Pina">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sam-Pina&show_icons=true&theme=omni&hide_border=true&locale=pt-br&hide_title=true" alt="EstatGitHub" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Pina&layout=compact&langs_count=10&theme=omni&hide_border=true&locale=pt-br" alt="LingUsadas" height="150">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVieira1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVieira1&layout=compact&langs_count=7&theme=highcontrast"/>
 
-</div>
+    
+##
+    
+    
+  </div>
   
   <div style="display: inline_block"><br>
   
